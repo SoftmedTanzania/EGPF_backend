@@ -1,0 +1,79 @@
+{
+    "form_data_definition_version": "4",
+    "form": {
+        "bind_type": "client_referral",
+        "default_bind_path": "/model/instance/client_hiv_referral_form/",
+        "fields": [
+            {
+                "name": "id",
+                "shouldLoadValue": true
+            },
+            {
+                "name": "relationalid"
+            },
+            {
+                "name": "fName"
+            },
+            {
+                "name": "mName"
+            },
+            {
+                "name": "lName"
+            },
+            {
+                "name": "Status"
+            },
+            {
+                "name": "clientDOB"
+            },
+            {
+                "name": "CBHS"
+            },
+            {
+                "name": "CTCNumber"
+            },
+            {
+                "name": "ReferralDate"
+            },
+            {
+                "name": "IS_VALID"
+            },
+            {
+                "name": "FacilityId"
+            },
+            {
+                "name": "ReferralReason"
+            },
+            {
+                "name": "Service"
+            },
+            {
+                "name": "Gender"
+            },
+            {
+                "name": "PhoneNumber"
+            },
+            {
+                "name": "Kata"
+            },
+            {
+                "name": "Kijiji"
+            },
+            {
+                "name": "kijitongoji"
+            },
+            {
+                "name": "VillageLeader"
+            },
+            {
+                "name": "ServiceProviderId"
+            },
+            {
+                "name": "ServiceProviderGroup"
+            },
+            {
+                "name": "ProviderMobileNumber"
+            }
+        ]
+    }
+}
